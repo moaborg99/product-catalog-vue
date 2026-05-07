@@ -23,6 +23,7 @@ This version was built using Inertia.js with Vue to create a modern SPA-like exp
 - Vue
 - Tailwind CSS
 - SQLite
+- TypeScript
 
 ## Features
 
